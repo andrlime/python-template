@@ -13,4 +13,4 @@ mkdir -p $PROJECT_NAME_UNDERSCORE
 mv template/* ./$PROJECT_NAME_UNDERSCORE
 rm -r template
 
-# rm init-template.sh
+rm init-template.sh
