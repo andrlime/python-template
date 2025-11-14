@@ -1,4 +1,4 @@
-name: "[ci] run mypy and ruff"
+name: "[ci] run pyrefly and ruff"
 
 on:
   push:
